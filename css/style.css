@@ -2,4 +2,5 @@ h1 {font-size: 1.8em;
     font-weight: 200;
     font-family: futura-pt;
     color: orange;
+    float: left;
   }
