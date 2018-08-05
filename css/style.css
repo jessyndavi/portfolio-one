@@ -3,7 +3,7 @@ h1 {font-size: 1.8em;
     font-family: futura-pt;
     color: orange;
 }
-h2 {background: #ce6928;
+h2 {font-family: futura-pt;
     color: white;
     font: inherit;
 }
