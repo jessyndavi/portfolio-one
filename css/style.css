@@ -2,5 +2,8 @@ h1 {font-size: 1.8em;
     font-weight: 200;
     font-family: futura-pt;
     color: orange;
-    float: left;
-  }
+}
+h2 {background: #ce6928;
+    color: white;
+    font: inherit;
+}
